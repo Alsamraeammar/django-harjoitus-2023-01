@@ -16,4 +16,8 @@ six==1.16.0
 sqlparse==0.4.3
 stone==3.3.1
 urllib3==1.26.15
+<<<<<<< HEAD
 whitenoise==6.4.0
+=======
+whitenoise==6.4.0
+>>>>>>> 08e307cbabfc2e50ce5128b718bcf1b69f05350a
